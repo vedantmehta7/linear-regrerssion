@@ -9,15 +9,14 @@
     </p>
       </div>
 <div> 
-<img width="110" alt="Screenshot 2024-09-08 at 3 33 55 PM" src="https://github.com/user-attachments/assets/15dd1ed8-3651-4b01-8452-71f7ed7e284b">
+<img width="114" alt="Screenshot 2024-09-08 at 3 55 19 PM" src="https://github.com/user-attachments/assets/0571e40c-8dfa-4ffd-a9f2-4b1d7182f650">
 </div>
       <p>
     > plot(mouse.data$weight,mouse.data$size)
       <br>
       </p>
 <div> 
-
-<img width="759" alt="Screenshot 2024-09-08 at 3 34 16 PM" src="https://github.com/user-attachments/assets/b1a6cd89-e17f-4962-a4a6-0eadb0bef66c">
+<img width="757" alt="Screenshot 2024-09-08 at 3 55 50 PM" src="https://github.com/user-attachments/assets/ebce499a-93b4-487c-9ed1-b3402ab2cdf3">
 </div>
 
 <div> 
@@ -27,13 +26,13 @@
     > summary(mouse.regression)
       <br>
     </p>
-     <img width="471" alt="Screenshot 2024-09-08 at 3 34 33 PM" src="https://github.com/user-attachments/assets/1ca736e0-653f-4f41-a24e-a0455d176287">
-</div> 
+      <div>
+        <img width="469" alt="Screenshot 2024-09-08 at 3 56 22 PM" src="https://github.com/user-attachments/assets/8c129d2f-233d-49d7-9c88-e463e3211c83">
+      </div> 
       <p>
     > abline(mouse.regression,col='red')
   </p>
-
 <div> 
-<img width="764" alt="Screenshot 2024-09-08 at 3 34 46 PM" src="https://github.com/user-attachments/assets/d9d9f6f9-0159-449c-8d1f-955253c10102">
+  <img width="758" alt="Screenshot 2024-09-08 at 3 56 40 PM" src="https://github.com/user-attachments/assets/ef699b69-f1dd-4e2c-99a4-2a3df78f8eab">
 </div>
 
